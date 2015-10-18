@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Only Love (Remix)",
+    "genre": "Euphoric Trance",
+    "artist": "Shannon Hurley remixed by flicknote",
+    "basedir": "flicknote_onlylove_remix",
+    "charts": [
+      {
+        "file": "onlylove_remix.bmson",
+        "title": "Only Love (Remix)",
+        "genre": "Euphoric Trance",
+        "artist": "Shannon Hurley remixed by flicknote",
+        "bpm": 125,
+        "level": 7
+      }
+    ]
+  }
+]
