@@ -9,8 +9,7 @@
 		"initBPM"   : 164.0,
 		"level"	 : 0
 	},
-	"lines" : [],
-	"bpmNotes" : [
+	"lines" : [
     {
       "y": 0
     },
@@ -18,6 +17,7 @@
       "y": 960
     }
 	],
+	"bpmNotes" : [],
 	"stopNotes" : [],
 	"soundChannel" : [
 		{
