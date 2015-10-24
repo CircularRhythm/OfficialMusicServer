@@ -4,6 +4,7 @@
     "genre": "Euphoric Trance",
     "artist": "Shannon Hurley remixed by flicknote",
     "basedir": "flicknote_onlylove_remix",
+    "packed_assets": true,
     "charts": [
       {
         "file": "onlylove_remix.bmson",
@@ -18,6 +19,7 @@
   {
     "name": "disambiguation",
     "basedir": "exclusion_disambiguation",
+    "packed_assets": true,
     "charts": [
       {
         "file": "disamb_wav_7H.bmson"
@@ -27,6 +29,7 @@
   {
     "name": "Kraid's Lair -Minimal Techno Remix-",
     "basedir": "dolphin_kraids_lair",
+    "packed_assets": true,
     "charts": [
       {
         "file": "test.bmson"
