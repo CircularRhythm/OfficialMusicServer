@@ -1,39 +1,62 @@
 [
   {
-    "name": "Only Love (Remix)",
+    "title": "Only Love (Remix)",
     "genre": "Euphoric Trance",
     "artist": "Shannon Hurley remixed by flicknote",
     "basedir": "flicknote_onlylove_remix",
     "packed_assets": true,
-    "charts": [
-      {
-        "file": "onlylove_remix.bmson",
-        "title": "Only Love (Remix)",
-        "genre": "Euphoric Trance",
-        "artist": "Shannon Hurley remixed by flicknote",
-        "bpm": 125,
-        "level": 7
-      }
-    ]
+    "charts": {
+      "single": [
+        {
+          "file": "onlylove_remix.bmson",
+          "title": "Only Love (Remix)",
+          "genre": "Euphoric Trance",
+          "artist": "Shannon Hurley remixed by flicknote",
+          "bpm": 125,
+          "level": 7
+        }
+      ],
+      "double": []
+    }
   },
   {
-    "name": "disambiguation",
+    "title": "disambiguation",
+    "genre": "",
+    "artist": "exclusion",
     "basedir": "exclusion_disambiguation",
     "packed_assets": true,
-    "charts": [
-      {
-        "file": "disamb_wav_7H.bmson"
-      }
-    ]
+    "charts": {
+      "single": [
+        {
+          "file": "disamb_wav_7H.bmson",
+          "title": "disambiguation",
+          "genre": "",
+          "artist": "exclusion",
+          "bpm": 164,
+          "level": 0
+        }
+      ],
+      "double": []
+    }
   },
   {
-    "name": "Kraid's Lair -Minimal Techno Remix-",
+    "title": "Kraid's Lair -Minimal Techno Remix-",
+    "genre": "Minimal Techno",
+    "artist": "Hirokazu Tanaka remixed by ドルフィン",
     "basedir": "dolphin_kraids_lair",
     "packed_assets": true,
-    "charts": [
-      {
-        "file": "test.bmson"
-      }
-    ]
+    "charts": {
+      "single": [
+        {
+          "file": "test.bmson",
+          "title": "Kraid's Lair -Minimal Techno Remix-",
+          "genre": "Minimal Techno",
+          "artist": "Hirokazu Tanaka remixed by ドルフィン",
+          "bpm": 156,
+          "level": 9
+        }
+      ],
+      "double": []
+    }
   }
 ]

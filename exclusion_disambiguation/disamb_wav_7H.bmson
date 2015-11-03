@@ -3,7 +3,7 @@
 	"info" : {
 		"title" : "disambiguation",
 		"genre" : "",
-		"artist" : "",
+		"artist" : "exclusion",
 		"judgeRank" : 0,
 		"total"	 : 0.0,
 		"initBPM"   : 164.0,
