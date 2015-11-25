@@ -1,6 +1,6 @@
 [
   {
-    "title": "Only Love (Remix)",
+    "title": "Only Love",
     "genre": "Euphoric Trance",
     "artist": "Shannon Hurley remixed by flicknote",
     "basedir": "flicknote_onlylove_remix",
@@ -8,16 +8,68 @@
     "charts": {
       "single": [
         {
-          "file": "onlylove_remix.bmson",
-          "title": "Only Love (Remix)",
-          "genre": "Euphoric Trance",
-          "artist": "Shannon Hurley remixed by flicknote",
-          "bpm": 125,
-          "level": 7
+          "file": "onlylove_remix_single_medium.bmson",
+          "chart_name": "Medium",
+          "level": 5,
+          "bpm": {
+            "initial": 125,
+            "min": 125,
+            "max": 125
+          },
+          "notes": 534
+        },
+        {
+          "file": "onlylove_remix_single_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 125,
+            "min": 125,
+            "max": 125
+          },
+          "notes": 525
         }
       ],
-      "double": []
-    }
+      "double": [
+        {
+          "file": "onlylove_remix_double_medium.bmson",
+          "chart_name": "Medium",
+          "level": 5,
+          "bpm": {
+            "initial": 125,
+            "min": 125,
+            "max": 125
+          },
+          "notes": 563
+        },
+        {
+          "file": "onlylove_remix_double_hard.bmson",
+          "chart_name": "Hard",
+          "level": 10,
+          "bpm": {
+            "initial": 125,
+            "min": 125,
+            "max": 125
+          },
+          "notes": 1021
+        },
+        {
+          "file": "onlylove_remix_double_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 125,
+            "min": 125,
+            "max": 125
+          },
+          "notes": 837
+        }
+      ]
+    },
+    "subtitle": "Euphoric Trance Remix",
+    "subartists": [],
+    "banner_image": null,
+    "preview_music": null
   },
   {
     "title": "disambiguation",
@@ -28,19 +80,38 @@
     "charts": {
       "single": [
         {
-          "file": "disamb_wav_7H.bmson",
-          "title": "disambiguation",
-          "genre": "",
-          "artist": "exclusion",
-          "bpm": 164,
-          "level": 0
+          "file": "disambiguation_single_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 164,
+            "min": 164,
+            "max": 164
+          },
+          "notes": 323
         }
       ],
-      "double": []
-    }
+      "double": [
+        {
+          "file": "disambiguation_double_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 164,
+            "min": 164,
+            "max": 164
+          },
+          "notes": 499
+        }
+      ]
+    },
+    "subtitle": "",
+    "subartists": [],
+    "banner_image": null,
+    "preview_music": null
   },
   {
-    "title": "Kraid's Lair -Minimal Techno Remix-",
+    "title": "Kraid's Lair",
     "genre": "Minimal Techno",
     "artist": "Hirokazu Tanaka remixed by ドルフィン",
     "basedir": "dolphin_kraids_lair",
@@ -48,15 +119,34 @@
     "charts": {
       "single": [
         {
-          "file": "test.bmson",
-          "title": "Kraid's Lair -Minimal Techno Remix-",
-          "genre": "Minimal Techno",
-          "artist": "Hirokazu Tanaka remixed by ドルフィン",
-          "bpm": 156,
-          "level": 9
+          "file": "kraidslair_single_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 156,
+            "min": 156,
+            "max": 156
+          },
+          "notes": 481
         }
       ],
-      "double": []
-    }
+      "double": [
+        {
+          "file": "kraidslair_double_unmodified.bmson",
+          "chart_name": "Unmodified",
+          "level": 0,
+          "bpm": {
+            "initial": 156,
+            "min": 156,
+            "max": 156
+          },
+          "notes": 791
+        }
+      ]
+    },
+    "subtitle": "- Minimal Techno Remix -",
+    "subartists": [],
+    "banner_image": null,
+    "preview_music": null
   }
 ]
