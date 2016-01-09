@@ -148,5 +148,54 @@
     "subartists": [],
     "banner_image": null,
     "preview_music": null
+  },
+  {
+    "title": "Crystalized Dreams",
+    "genre": "Ascension",
+    "artist": "Echo",
+    "basedir": "echo_crystalized_dreams",
+    "packed_assets": true,
+    "charts": {
+      "single": [
+        {
+          "file": "CircularBeginner.bmson",
+          "chart_name": "Beginner",
+          "level": 2,
+          "bpm": {
+            "initial": 198,
+            "min": 198,
+            "max": 198
+          },
+          "notes": 114
+        },
+        {
+          "file": "CircularNormal.bmson",
+          "chart_name": "Normal",
+          "level": 4,
+          "bpm": {
+            "initial": 198,
+            "min": 198,
+            "max": 198
+          },
+          "notes": 435
+        },
+        {
+          "file": "CircularHard.bmson",
+          "chart_name": "Hard",
+          "level": 10,
+          "bpm": {
+            "initial": 198,
+            "min": 198,
+            "max": 198
+          },
+          "notes": 804
+        }
+      ],
+      "double": []
+    },
+    "subtitle": "",
+    "subartists": ["Event:Be-Music West"],
+    "banner_image": null,
+    "preview_music": null
   }
 ]
