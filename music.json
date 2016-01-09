@@ -10,7 +10,7 @@
         {
           "file": "onlylove_remix_single_medium.bmson",
           "chart_name": "Medium",
-          "level": 5,
+          "level": 7,
           "bpm": {
             "initial": 125,
             "min": 125,
@@ -34,7 +34,7 @@
         {
           "file": "onlylove_remix_double_medium.bmson",
           "chart_name": "Medium",
-          "level": 5,
+          "level": 6,
           "bpm": {
             "initial": 125,
             "min": 125,
