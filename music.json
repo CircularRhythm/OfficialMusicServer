@@ -80,6 +80,17 @@
     "charts": {
       "single": [
         {
+          "file": "disambiguation_single_easy.bmson",
+          "chart_name": "Easy",
+          "level": 3,
+          "bpm": {
+            "initial": 164,
+            "min": 164,
+            "max": 164
+          },
+          "notes": 218
+        },
+        {
           "file": "disambiguation_single_unmodified.bmson",
           "chart_name": "Unmodified",
           "level": 0,
@@ -118,6 +129,17 @@
     "packed_assets": true,
     "charts": {
       "single": [
+        {
+          "file": "kraidslair_single_hard.bmson",
+          "chart_name": "Hard",
+          "level": 9,
+          "bpm": {
+            "initial": 156,
+            "min": 156,
+            "max": 156
+          },
+          "notes": 898
+        },
         {
           "file": "kraidslair_single_unmodified.bmson",
           "chart_name": "Unmodified",
@@ -194,7 +216,9 @@
       "double": []
     },
     "subtitle": "",
-    "subartists": ["Event:Be-Music West"],
+    "subartists": [
+      "Event:Be-Music West"
+    ],
     "banner_image": null,
     "preview_music": null
   }
