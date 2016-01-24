@@ -221,5 +221,88 @@
     ],
     "banner_image": null,
     "preview_music": null
+  },
+  {
+    "title": "Pathos from Puyo Puyo Sun",
+    "genre": "Short Piece",
+    "artist": "from suitougreentea's daily work",
+    "basedir": "suitougreentea_daily_160117",
+    "packed_assets": true,
+    "charts": {
+      "single": [
+        {
+          "file": "single_bass.bmson",
+          "chart_name": "Medium Bass",
+          "level": 4,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 101
+        },
+        {
+          "file": "single_drum.bmson",
+          "chart_name": "Medium Drum",
+          "level": 5,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 152
+        },
+        {
+          "file": "single_synth.bmson",
+          "chart_name": "Medium Synth",
+          "level": 6,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 105
+        }
+      ],
+      "double": [
+        {
+          "file": "double_easy.bmson",
+          "chart_name": "Easy",
+          "level": 3,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 83
+        },
+        {
+          "file": "double_synth.bmson",
+          "chart_name": "Medium Synth",
+          "level": 7,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 100
+        },
+        {
+          "file": "double_hard.bmson",
+          "chart_name": "Hard",
+          "level": 9,
+          "bpm": {
+            "initial": 147,
+            "min": 147,
+            "max": 147
+          },
+          "notes": 195
+        }
+      ]
+    },
+    "subtitle": "",
+    "subartists": [],
+    "banner_image": null,
+    "preview_music": null
   }
 ]
