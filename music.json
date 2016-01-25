@@ -130,6 +130,17 @@
     "charts": {
       "single": [
         {
+          "file": "kraidslair_single_normal.bmson",
+          "chart_name": "Normal",
+          "level": 5,
+          "bpm": {
+            "initial": 156,
+            "min": 156,
+            "max": 156
+          },
+          "notes": 513
+        },
+        {
           "file": "kraidslair_single_hard.bmson",
           "chart_name": "Hard",
           "level": 9,
